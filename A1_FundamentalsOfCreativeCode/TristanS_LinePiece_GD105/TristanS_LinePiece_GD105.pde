@@ -8,6 +8,10 @@ void setup(){
 
 void draw(){
   background(#fcfcfc);
+  
+  fill(#000000);
+  strokeWeight(10);
+  
   //Right side
   
   square(538, 531, 195 );
@@ -29,8 +33,7 @@ void draw(){
   rect(262,256,144,260);
   
   
-  fill(#000000);
-  strokeWeight(10);
+  
   
   
   
