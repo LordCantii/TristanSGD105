@@ -13,7 +13,7 @@ void draw(){
   {fill(#2f1c17);
   rect(0,-1,999,470);}
   
-  {fill(#07044c);
+  {fill(#0f0c6c);
   rect(-39,469,1038,430);}
   
   //Red Squares

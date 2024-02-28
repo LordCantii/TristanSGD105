@@ -1,4 +1,4 @@
-//Atilla Kovacs 1938-2017
+//Atilla Kovacs, 1938-2017
 //Koordination pp3-7-1975, 1985
 //https://www.mayorgallery.com/artists/110-attila-kovacs/works/1815-attila-kovacs-koordination-pp3-7-1975-1985/
 
