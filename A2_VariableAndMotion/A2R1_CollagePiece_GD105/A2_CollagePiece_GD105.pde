@@ -36,4 +36,9 @@ void draw() {
   image(chibidemon, -189, -138);
   image(bloodmoon, -34, -213);
   image(rednaota, 32, -48);
+  
+    // This saves the canvas as an image on the first frame of the program.
+if(frameCount == 1){
+  save("output.png");}
+
 }
